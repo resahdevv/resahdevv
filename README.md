@@ -17,9 +17,8 @@
 
 <!-- Contact me -->
 ## 📌 Contact me
+> [WhatsApp](https://wa.me/+6285742632270)
 
-[WhatsApp](https://wa.me/+6285742632270)
-<br>
-[Telegram](https://t.me/ezasarah)
+> [Telegram](https://t.me/ezasarah)
 
 ```Copyright (c) 2023 Rezadevv```
